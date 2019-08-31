@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=MoneroTrust Core
+Comment=MoneroTrust P2P Cryptocurrency
+Comment[fr]=MoneroTrust, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MoneroTrust, eşten eşe kriptografik sanal para birimi
+Exec=monerotrust-qt %u
+Terminal=false
+Type=Application
+Icon=monerotrust128
+MimeType=x-scheme-handler/monerotrust;
+Categories=Office;Finance;
+StartupWMClass=MoneroTrust-qt
